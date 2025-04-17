@@ -13,6 +13,7 @@ pnpm dev
 # or
 bun dev
 ```
+![ezgif-66506663a68d39](https://github.com/user-attachments/assets/004007ec-b92d-4922-86df-7ea3bfac2e2b)
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
